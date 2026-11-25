@@ -1,0 +1,6 @@
+{
+  "name": "Reduced Row Echelon Form",
+  "description": "A 5-minute animated mathematical documentary and interactive linear algebra studio explaining Row Echelon Form, elementary row operations, and Reduced Row Echelon Form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
